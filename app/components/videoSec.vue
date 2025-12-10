@@ -1,0 +1,9 @@
+<template>
+  <VideoBackground
+    src="https://res.cloudinary.com/drteevmh6/video/upload/v1760381763/download_6_sz075z.mp4"
+    :overlay="true"
+    paddingTop="mt-24"
+    paddingBottom="mb-24"
+  >
+  </VideoBackground>
+</template>
